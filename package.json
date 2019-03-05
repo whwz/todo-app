@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "// If You want to install mdbreact from our GitLab repository, please replace '4.11.0' with gitURL provided here ->": "git+https://oauth2:<YOUR-TOKEN-GOES-HERE>@git.mdbootstrap.com/mdb/react/re-pro.git",
-  "homepage": "https://whwz.github.io/todo-app",
+  "homepage": "https://whwz.github.io/todo-app/",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "mdbreact": "4.11.0",
