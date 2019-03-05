@@ -112,16 +112,16 @@ self.__precacheManifest = [
     "url": "/todo-app/static/media/Roboto-Thin.954bbdeb.woff2"
   },
   {
+    "revision": "2751ee43015f9884c3642f103b7f70c9",
+    "url": "/todo-app/static/media/Roboto-Regular.2751ee43.woff2"
+  },
+  {
     "revision": "69f8a0617ac472f78e45841323a3df9e",
     "url": "/todo-app/static/media/Roboto-Light.69f8a061.woff2"
   },
   {
     "revision": "574fd0b50367f886d359e8264938fc37",
     "url": "/todo-app/static/media/Roboto-Medium.574fd0b5.woff2"
-  },
-  {
-    "revision": "2751ee43015f9884c3642f103b7f70c9",
-    "url": "/todo-app/static/media/Roboto-Regular.2751ee43.woff2"
   },
   {
     "revision": "39b2c3031be6b4ea96e2e3e95d307814",
@@ -152,12 +152,12 @@ self.__precacheManifest = [
     "url": "/todo-app/static/media/Roboto-Thin.94998475.ttf"
   },
   {
-    "revision": "46e48ce0628835f68a7369d0254e4283",
-    "url": "/todo-app/static/media/Roboto-Light.46e48ce0.ttf"
-  },
-  {
     "revision": "df7b648ce5356ea1ebce435b3459fd60",
     "url": "/todo-app/static/media/Roboto-Regular.df7b648c.ttf"
+  },
+  {
+    "revision": "46e48ce0628835f68a7369d0254e4283",
+    "url": "/todo-app/static/media/Roboto-Light.46e48ce0.ttf"
   },
   {
     "revision": "894a2ede85a483bf9bedefd4db45cdb9",
